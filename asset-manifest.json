@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/JagannathRD/NewProjects/static/css/main.f855e6bc.css",
+    "main.js": "/JagannathRD/NewProjects/static/js/main.45b1a039.js",
+    "static/js/453.ed3810f9.chunk.js": "/JagannathRD/NewProjects/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/JagannathRD/NewProjects/index.html",
+    "main.f855e6bc.css.map": "/JagannathRD/NewProjects/static/css/main.f855e6bc.css.map",
+    "main.45b1a039.js.map": "/JagannathRD/NewProjects/static/js/main.45b1a039.js.map",
+    "453.ed3810f9.chunk.js.map": "/JagannathRD/NewProjects/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.45b1a039.js"
+  ]
+}
